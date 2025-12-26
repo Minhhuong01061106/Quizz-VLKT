@@ -103,7 +103,7 @@ const quizData = [
       "Sợi dây",
       "Không có vật nào tương tác với quả cầu",
     ],
-    correctAnswer: 3, // D (ADCACAABC... - Câu 11: D)
+    correctAnswer: 1, // D (ADCACAABC... - Câu 11: D)
   },
   {
     question:
@@ -114,7 +114,7 @@ const quizData = [
       "Tròn đều",
       "Không xác định được vì chưa đủ thông tin",
     ],
-    correctAnswer: 1, // B (ADCACAABC... - Câu 12: B)
+    correctAnswer: 3, // B (ADCACAABC... - Câu 12: B)
   },
   {
     question: "Động lượng của vật chuyển động tròn đều có tính chất nào?",
@@ -162,7 +162,7 @@ const quizData = [
     question:
       "Một chất điểm chuyển động tròn đều trên đường tròn bán kính R. Đặt ω là tốc độ góc, v là vận tốc dài, n là số vòng quay/giây. Độ lớn của gia tốc hướng tâm có biểu thức nào trong các biểu thức cho sau đây?",
     answers: ["Rω²", "v²/R", "4π²n²R", "Cả 3 biểu thức A, B, C"],
-    correctAnswer: 3, // D (ADCACAABC... - Câu 17: D)
+    correctAnswer: 1, // D (ADCACAABC... - Câu 17: D)
   },
   {
     question:
@@ -192,13 +192,13 @@ const quizData = [
     question:
       "Từ một đỉnh tháp cao H = 25 m người ta ném một hòn đá lên phía trên với vận tốc v0 = 15 m/s theo phương hợp với phương nằm ngang một góc α = 30°. Thời gian chuyển động của hòn đá là bao nhiêu?",
     answers: ["1,1 s", "2,1 s", "3,1 s", "4,1 s"],
-    correctAnswer: 1, // B (ADCACAABC... - Câu 22: B)
+    correctAnswer: 2, // B (ADCACAABC... - Câu 22: B)
   },
   {
     question:
       "Từ một đỉnh tháp cao H = 25 m người ta ném một hòn đá lên phía trên với vận tốc v0 = 15 m/s theo phương hợp với phương nằm ngang một góc α = 30°. Khoảng cách từ chân tháp đến chỗ rơi của hòn đá?",
     answers: ["30,3 m", "40,3 m", "50,3 m", "60,3 m"],
-    correctAnswer: 0, // A (ADCACAABC... - Câu 23: A)
+    correctAnswer: 1, // A (ADCACAABC... - Câu 23: A)
   },
   {
     question:
@@ -222,7 +222,7 @@ const quizData = [
     question:
       "Từ một sân thượng cao 20 m của một tòa nhà người ta ném một hòn sỏi theo phương ngang với vận tốc ban đầu là 4 m/s. Cho g = 10 m/s², chọn gốc tọa độ tại nơi ném hòn sỏi. Tầm xa cực đại mà hòn sỏi đạt được là:",
     answers: ["5 m", "6 m", "7 m", "8 m"],
-    correctAnswer: 0, // A (ADCACAABC... - Câu 27: A)
+    correctAnswer: 3, // A (ADCACAABC... - Câu 27: A)
   },
   {
     question:
