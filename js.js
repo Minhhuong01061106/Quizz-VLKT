@@ -216,7 +216,7 @@ const quizData = [
     question:
       "Một vật có khối lượng m = 20 kg được kéo trượt trên một mặt sàn nằm ngang bởi một lực F hợp với phương ngang một góc α = 60° hướng lên. Cho biết hệ số ma sát trượt giữa vật và mặt sàn là k = 0,1. Cho g = 10 m/s², độ lớn lực F = 40 N. Độ lớn của phản lực của mặt sàn lên vật là bao nhiêu?",
     answers: ["165,36 N", "170,36 N", "175,36 N", "180,36 N"],
-    correctAnswer: 1, // B (ADCACAABC... - Câu 26: B)
+    correctAnswer: 0, // B (ADCACAABC... - Câu 26: B)
   },
   {
     question:
