@@ -81,7 +81,7 @@ const quizData = [
     question:
       "Một vật có khối lượng m treo trong thang máy bằng một dây nhẹ không dãn vào trần thang máy. Trong điều kiện đó vật chịu tác dụng của: Lực căng dây T⃗, Trọng lực P⃗ = m g⃗. Xét các quan hệ sau giữa độ lớn các lực. Khi thang máy đi xuống chậm dần đều ta có kết luận nào?",
     answers: ["T = mg", "T > mg", "T < mg", "T = 0"],
-    correctAnswer: 2, // B (ADCACAABC... - Câu 9: B)
+    correctAnswer: 2, // B (ADCACAABC... - Câu 9: C)
   },
   {
     question:
@@ -92,7 +92,7 @@ const quizData = [
       "Nhanh dần đều trên mặt phẳng nghiêng; chậm dần đều trên mặt phẳng ngang",
       "Đều trên mặt phẳng nghiêng; nhanh dần đều trên mặt phẳng ngang",
     ],
-    correctAnswer: 1, // C (ADCACAABC... - Câu 10: C)
+    correctAnswer: 1, // C (ADCACAABC... - Câu 10: B)
   },
   {
     question:
